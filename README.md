@@ -126,12 +126,9 @@ Therefore we can fairly confidently narrow down the search to all Bubbles with r
 
 ![image](https://user-images.githubusercontent.com/69304112/154681576-388a62e2-1f2d-4020-bb26-786e001074ab.png)
 
+This last step seems justified in the circumstances, even if it not the most scientific. In fact, because of memory issues, I have narrowed it downfurther, to a results of 50 or above.
 
-This last step is not a very scientific approach, but in the circumstances, it seems justifiable.
-
-In fact, because of memory issues, I have narrowed it downfurther, to a results of 50 or above.
-
-We now have less than 28,000 combos to work with - which means much less than a trillion calculations to do.
+We now have less than 28,000 combos to work with - so much more manageable than a trillion.
 
 ## LET'S GO
 
@@ -228,18 +225,11 @@ There are two combos that only require eight teams. These are:
 
 As the main point of having bubbles is to limit movement around the UK (to stop the spread of the virus), it clearly comes down to a choice between these two combos.
 
-Picking one of these pools means Crystal Palace will play just 7 games in the initial stages, compared to the 9 played by most teams and the 10 played by some.
-
-But scheduling concerns are far outweighed by the need to limit movement.
-
-That said, scheduling will be the deciding factor in which combo we choose.
-
-As was noted at the beginning, most teams have nine games left. But four - ARS, AST, MCI, SHE - have ten.
+Picking one of these pools means Crystal Palace will play just 7 games in the initial stages, compared to the 9 played by most teams and the 10 played by some. But scheduling concerns are far outweighed by the need to limit movement.
 
 Let's look at how each of these teams features in the final two combos.
 
 ![image](https://user-images.githubusercontent.com/69304112/154681988-5d027a83-86e9-4a8f-8669-2859e43f78b3.png)
-
 
 So it is that Bubbles 18125 and 56427 are the ideal combination!
 
