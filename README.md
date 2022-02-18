@@ -246,7 +246,7 @@ B2 ['ARS', 'BRI', 'EVE', 'LEI', 'LIV', 'MCI', 'NEW', 'NOR', 'SHE', 'TOT']
 
 
 
-Blue = team is in main pool of the bubble. Red = in complemeentary pool.
+Blue = team is in main pool of the bubble. Red = in complementary pool.
 
 We can see here which teams will be moving (they can colors) and which will be staying put (no change).
 
