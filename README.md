@@ -78,7 +78,7 @@ Once Group 0 has iterated through all its possible combinations, there is no nee
 
 There is also no need for each Bubble to calculate against itself.
 
-So by the time we get to the penultimate Bubble, the only Bubble it needs to check itself with the last one.
+So by the time we get to the penultimate Bubble, the only Bubble it needs to check itself with is the last one.
 
 ![image](https://user-images.githubusercontent.com/69304112/154681127-f805e879-266e-42cc-9fc9-beb83e7b83d6.png)
 
